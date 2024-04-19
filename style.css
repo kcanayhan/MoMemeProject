@@ -1,0 +1,54 @@
+/* CSS background color property*/
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font: 3rem;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.motivation-img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+/* KCA Solution:
+
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #h1id1, #p1id1  {
+    font-family: "Libre Baskerville", serif;
+    color: white;
+  }
+
+  #image1id1 {
+    border: 5px solid white;
+    width: 100%;
+  }
+
+
+  .class1 {
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 20px;
+    width: 50%;
+
+  }
+
+  #h1id1 {
+    text-transform: uppercase;
+  } */
